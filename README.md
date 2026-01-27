@@ -4,11 +4,7 @@
 ### Description
 [This is a beautiful collage of videos and photos on the travelling experiences that I have experienced.It features renowned sites of attraction in Dubai.Dubai was an experience I would relieve any day any time.I hope you enjoy as much as I did].It displays the Museum of the Future,Desert Safari,Dubai Mall,City tour,Sharjar Museum of Civilization,House of hype and Ferrari world.
 #### Features
-The project includes;
- -Portfolio including introductory paragraph
- -A form that requires to be submitted
- -Biography of the project members
- -A well detailed and visual appearing website
+The project includes; Portfolio including introductory paragraph, A form that requires to be submitted ,Biography of the project members and A well detailed and visual appearing website
 #### License
 *{MIT License}*
 
@@ -37,5 +33,6 @@ SOFTWARE.
 -HTML
 
 -CSS
+
 
 
