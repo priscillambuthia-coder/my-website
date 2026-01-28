@@ -32,11 +32,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 #### The link
-:https://github.com/priscillambuthaia-coder/my-website.git
+ https://priscillambuthia-coder.github.io/my-website/
 #### The Technologies used
 -HTML
 
 -CSS
+
 
 
 
